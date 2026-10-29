@@ -1,0 +1,6 @@
+# recordings and their in-progress pieces
+videos/
+*.f32
+# debug capture from near-miss clicks
+near_miss.png
+__pycache__/
